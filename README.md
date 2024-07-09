@@ -2,6 +2,7 @@
 
 This repository contains code for detecting credit card fraud using a neural network model. The dataset used is highly imbalanced, and the code demonstrates techniques to handle this imbalance using undersampling and SMOTE (Synthetic Minority Over-sampling Technique).
 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
