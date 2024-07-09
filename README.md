@@ -3,6 +3,9 @@
 This repository contains code for detecting credit card fraud using a neural network model. The dataset used is highly imbalanced, and the code demonstrates techniques to handle this imbalance using undersampling and SMOTE (Synthetic Minority Over-sampling Technique).
 
 
+![Credit-card-fraud](https://github.com/mhadeli/Credit_Fraud-Detector/assets/58530203/14a66916-b3bb-4c18-ae7d-812e751c3c59)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
